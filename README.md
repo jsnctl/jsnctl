@@ -5,3 +5,4 @@
 * Founding engineer @ [Cofide](https://github.com/cofide)
 * Workload identity ([SPIFFE](https://spiffe.io), [SPIRE](https://github.com/spiffe/spire), [WIMSE](https://datatracker.ietf.org/group/wimse/about/))
 * Kubernetes, Go
+* Previously: [Doctoral thesis](https://stax.strath.ac.uk/concern/theses/1j92g746t?locale=en), [Google Scholar](https://scholar.google.com/citations?user=e1kWMdEAAAAJ&hl=en&oi=ao)
