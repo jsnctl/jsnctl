@@ -1,7 +1,7 @@
 ## jsnctl 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
 <img width="460" height="307" alt="image" src="https://github.com/user-attachments/assets/080b931f-6fe7-49c6-8bab-89f151cfe5b5" />
-
+<hr>
 Software engineer from Scotland.
 
 * Kubernetes, Go, workload identity, open source
